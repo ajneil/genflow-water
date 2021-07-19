@@ -8,7 +8,7 @@ React Frontend <---> AWS API Gateway <---> AWS Lambda <---> AWS DynamoDB
 
 ## Information
 
-As of 19/07/2021 there are no tests, no redux and no proptypes.
+As of 19/07/2021 there are no tests, no redux and no prop-types (& no linter!!!).
 Which is a shame.
 
 I currently don't have the time to add them - or to refactor the code into something cleaner.
@@ -19,7 +19,7 @@ I currently don't have the time to add them - or to refactor the code into somet
 - run `npm run test`
 - If a new tab isn't opened, head on over to [localhost:3000](http://localhost:3000)
 
-### To Swicth AWS Gateway
+### To switch AWS Gateway
 - open `./genflow/src/constants.js`.
 - replace API_KEY, API_REGION, API_PATH.
 
