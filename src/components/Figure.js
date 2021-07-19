@@ -3,7 +3,7 @@ import React from 'react';
 const Figure = ({ currentWaterValue, currentWaterTarget }) => {
   const currentWaterPercent = currentWaterValue / currentWaterTarget * 100; 
   const height = '344.002';
-  const value =  (parseInt(height) - (parseInt(height) / 100) * currentWaterPercent) || 0;
+  const value =  (parseInt(height) - (parseInt(height) / 100) * currentWaterPercent) || height;
 
   return (
     <svg xmlns="http://www.w3.org/2000/svg" width="146.667" height={height} viewBox="0 0 146.667 344.002">
