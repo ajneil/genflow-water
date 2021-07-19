@@ -1,6 +1,6 @@
 # Genflow tech test
 
-Thanks for inviting me to take this test.  It took some time, but was entertaining.
+Thanks for the invitation to take this test.
 I'm looking forward to your feedback.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
