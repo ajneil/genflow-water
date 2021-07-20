@@ -11,7 +11,7 @@ React Frontend <---> AWS API Gateway <---> AWS Lambda <---> AWS DynamoDB
 ## Information
 
 As of 19/07/2021 there are no tests, no redux and no prop-types (& no linter!!!).
-Which is a shame.
+Which is a shame.  There's Also a little bug with the hand-rolled water selector on Safari; Simple fix / relace with npm package. 
 
 I currently don't have the time to add them - or to refactor the code into something cleaner.
 
